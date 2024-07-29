@@ -22,6 +22,24 @@ This project involves building a Convolutional Neural Network (CNN) to classify 
 
 ## Setup
 
+Kaggle API Key:
+
+Obtain your Kaggle API key from Kaggle.
+
+Save it as a file named kaggle.json.
+
+Place kaggle.json in the ~/.kaggle/ directory. Create the directory if it does not exist:
+
+bash
+Copy code
+mkdir -p ~/.kaggle
+cp kaggle.json ~/.kaggle/
+### Download the Dataset:
+
+The dataset will be downloaded and extracted automatically by the script. Ensure the Kaggle API key is correctly configured.
+
+
+
 1. **Install Dependencies**:
 
    Ensure you have the necessary Python packages installed. You can install them using pip:
