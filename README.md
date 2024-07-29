@@ -1,5 +1,7 @@
 ﻿# Dog-vs-Cat-Image-Classification
 
+ Dataset Link:-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjVqeDhVb1ZuQWRqUWFDSnhxblYweGo1ZG5nZ3xBQ3Jtc0ttcEd3UVh5NTJwem43STBIZG95R194cl9lYlN0TFo3LWxfZ3l5QWY4WG93MDZWaWdOakVFbVVSd3VicFhrNGlOaUt5OExDNFE4VFVpMko3UjhaYmpYZUI5ZXBMS0JIN0loMU40TGtrckJWak5FczRidw&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fsalader%2Fdogs-vs-cats&v=0K4J_PTgysc
+
  This project demonstrates a Convolutional Neural Network (CNN) for classifying images of dogs and cats. The model is trained using TensorFlow and Keras on a dataset of dog and cat images.
 
 Contents
